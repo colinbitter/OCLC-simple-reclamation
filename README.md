@@ -2,7 +2,7 @@
 Compare OCLC#s between sheets to find mismatches<br/><br/>
 Record source 1: Create collection in WorldShare Collection Manager <br/>
 Selection Criteria:<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;li:---<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;li:--- [specify OCLC symbol]<br/>
 Export tab delimited records: 001. Save as Alma.xlsx in downloads folder.<br/><br/>
 Record source 2: In Alma, export Bibliographic Records based on logical set:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Is linked=No<br/>
