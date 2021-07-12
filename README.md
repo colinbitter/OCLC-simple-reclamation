@@ -12,6 +12,6 @@ Export tab delimited records: 001, 035$a. Save as OCLC.xlsx in downloads folder.
 <br/><br/>
 Run OCLC-simple-reclamation.py<br/><br/>
 Unmatched records are the result of:<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Holding missing in OCLC
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Holding present in OCLC, record missing in Alma
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Holding missing in OCLC<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Holding present in OCLC, record missing in Alma<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. OCLC# changed in OCLC
