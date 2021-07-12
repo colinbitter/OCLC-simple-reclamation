@@ -4,7 +4,7 @@ Record source 1: Create collection in WorldShare Collection Manager <br/>
 Selection Criteria:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;li:--- [specify OCLC symbol]<br/>
 Export tab delimited records: 001. Save as OCLC.xlsx in downloads folder.<br/><br/>
-Record source 2: In Alma, export Bibliographic Records based on logical set:<br/>
+Record source 2: In Alma, Export bibliographic records based on logical set:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Is linked=No<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tag sync external=Publish bibliographic records<br/>
 Do not specify the presence of inventory since “related records” will be cut out.<br/>
